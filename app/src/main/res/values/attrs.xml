@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GraphView">
+        <attr name="a_coefficient" format="float" />
+        <attr name="b_coefficient" format="float" />
+        <attr name="c_coefficient" format="float" />
+        <attr name="zoom_level" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="LimitedSeekBar">
+        <attr name="lower_limit" format="float" />
+        <attr name="upper_limit" format="float" />
+    </declare-styleable>
+</resources>
